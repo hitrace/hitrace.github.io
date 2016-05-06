@@ -1,5 +1,5 @@
 ---
-permalink: /hitrace/
+permalink: /HiTRACE/
 ---
 
 
@@ -19,7 +19,7 @@ To install **HiTRACE**, simply:
 - From GitHub or [**RMDB**](https://rmdb.stanford.edu/tools/), download the zip or tar file of the repository and unpack; or 
 
 ```bash
-git clone https://github.com/hitrace/hitrace.git
+git clone https://github.com/hitrace/HiTRACE.git
 ```
 
 - In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/hitrace/Scripts/`.
@@ -32,7 +32,7 @@ git clone https://github.com/hitrace/hitrace.git
 <hr/>
 ## License
 
-Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/hitrace/blob/master/LICENSE.md).
+Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/HiTRACE/blob/master/LICENSE.md).
 
 <hr/>
 ## Reference
@@ -56,13 +56,13 @@ Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https
 <hr/>
 ## Related Packages
 
-* ### [**Biers**](https://daslab.github.io/biers/)
+* ### [**Biers**](https://daslab.github.io/Biers/)
 
-* ### [**RDATKit**](/rdatkit/)
+* ### [**RDATKit**](/RDATKit/)
 
-* [**REEFFIT**](https://daslab.github.io/reeffit/)
+* [**REEFFIT**](https://daslab.github.io/REEFFIT/)
 
-* [**LIFFT**](https://daslab.github.io/lifft/)
+* [**LIFFT**](https://daslab.github.io/LIFFT/)
 
 <hr/>
 Developed by **Das lab** (_Leland Stanford Junior University_) and **Yoon lab** (_Seoul National University_) and colleagues.

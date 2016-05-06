@@ -1,16 +1,16 @@
 ---
-permalink: /hitrace/tutorial/
+permalink: /HiTRACE/tutorial/
 level: 2
 ---
 
 ## Example Files
-Example scripts and data are included in the **HiTRACE** [repository](https://github.com/hitrace/hitrace/). For a new analysis, start with these example scripts and replace relevant values with yours:
+Example scripts and data are included in the **HiTRACE** [repository](https://github.com/hitrace/HiTRACE/). For a new analysis, start with these example scripts and replace relevant values with yours:
 
-* 1D Analysis: _[Script](https://github.com/hitrace/hitrace/blob/master/TestData/example_pfl_1D.m), [Data](https://github.com/hitrace/hitrace/blob/master/TestData/data_pfl_1D.zip)_
+* 1D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_1D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/TestData/data_pfl_1D.zip)_
 
-* 2D Analysis: _[Script](https://github.com/hitrace/hitrace/blob/master/TestData/example_pfl_2D.m), [Data](https://github.com/hitrace/hitrace/blob/master/TestData/data_pfl_2D.zip)_
+* 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_2D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/TestData/data_pfl_2D.zip)_
 
-* Color Diagram: _[Script](https://github.com/hitrace/hitrace/blob/master/TestData/example_pfl_color.m), [Image](https://github.com/hitrace/hitrace/blob/master/TestData/pfl_secstr.tif)_
+* Color Diagram: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_color.m), [Image](https://github.com/hitrace/HiTRACE/blob/master/TestData/pfl_secstr.tif)_
 
 <hr/>
 ## Analysis Pipeline
@@ -53,10 +53,10 @@ Write analyzed result to file in RDAT format, for use of _Z-score_ and predictio
 * ### #10: [Calculate Z-score](step_10/) <small>*(for 2D data only)*</small>
 Transfrom 2D chemical mapping data into _Z-score_ for use as 2D pseudo-free energy bonus for RNAstructure.
 
-* ### #11: [Predict Secondary Structure](https://daslab.github.io/biers/rnastructure/)
+* ### #11: [Predict Secondary Structure](https://daslab.github.io/Biers/rnastructure/)
 Run structural prediction using [RNAstructure](http://rna.urmc.rochester.edu/RNAstructure.html) based on chemical mapping reactivity data, with bootstrapping for helix-wise confidence score.
 
-* ### #12: [Visualize Secondary Structure](https://daslab.github.io/biers/varna/) <small>*(optional)*</small>
+* ### #12: [Visualize Secondary Structure](https://daslab.github.io/Biers/varna/) <small>*(optional)*</small>
 Draw secondary structure using [VARNA](http://varna.lri.fr/) with nucleotides color-coded by reactivity, and mark difference between secondary structure models.
 
 <hr/>

@@ -1,5 +1,5 @@
 ---
-permalink: /hitrace/tutorial/bonus_3d/
+permalink: /HiTRACE/tutorial/bonus_3d/
 level: 2
 prev: bonus_2d/
 ---

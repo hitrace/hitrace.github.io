@@ -1,5 +1,5 @@
 ---
-permalink: /hitrace/tutorial/step_0/
+permalink: /HiTRACE/tutorial/step_0/
 level: 2
 next: step_1/
 ---
@@ -8,7 +8,7 @@ next: step_1/
 
 <br/>
 
-* ### Please follow the [**installation**](/hitrace#installation) guidelines to download HiTRACE scripts, and register to _MATLAB_ path.
+* ### Please follow the [**installation**](/HiTRACE#installation) guidelines to download HiTRACE scripts, and register to _MATLAB_ path.
 
 * ### For all of the commands used, use `help func_name` to retrieve help information on syntax usage.
 
@@ -22,5 +22,5 @@ This is basically historical; note that most biochemical papers take a different
 
 * ### Please report problems to [rhiju@stanford.edu](mailto:rhiju@stanford.edu). So we can fix them!
 
-* ### Papers describing the HiTRACE method [(Yoon _et al._ 2011)](https://daslab.stanford.edu/site_data/pub_pdf/2011_Yoon_Bioinfo.pdf), background subtraction, 'overmodification' correction, and error analyses [(Kladwang _et al._ 2014)](https://daslab.stanford.edu/site_data/pub_pdf/2014_Kladwang_Biochem.pdf), online version of HiTRACE [(Kim _et al._ 2013)](https://daslab.stanford.edu/site_data/pub_pdf/2013_Kim_NAR.pdf), and new auto-assign algorithm [(Lee _et al._ 2015)](https://daslab.stanford.edu/site_data/pub_pdf/2015_Lee_Bioinfo.pdf) are listed as [**reference**](/hitrace#reference). Please cite accordingly.
+* ### Papers describing the HiTRACE method [(Yoon _et al._ 2011)](https://daslab.stanford.edu/site_data/pub_pdf/2011_Yoon_Bioinfo.pdf), background subtraction, 'overmodification' correction, and error analyses [(Kladwang _et al._ 2014)](https://daslab.stanford.edu/site_data/pub_pdf/2014_Kladwang_Biochem.pdf), online version of HiTRACE [(Kim _et al._ 2013)](https://daslab.stanford.edu/site_data/pub_pdf/2013_Kim_NAR.pdf), and new auto-assign algorithm [(Lee _et al._ 2015)](https://daslab.stanford.edu/site_data/pub_pdf/2015_Lee_Bioinfo.pdf) are listed as [**reference**](/HiTRACE#reference). Please cite accordingly.
 

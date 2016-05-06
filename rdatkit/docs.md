@@ -1,5 +1,5 @@
 ---
-permalink: /rdatkit/docs/
+permalink: /RDATKit/docs/
 level: 2
 ---
 

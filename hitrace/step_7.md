@@ -1,5 +1,5 @@
 ---
-permalink: /hitrace/tutorial/step_7/
+permalink: /HiTRACE/tutorial/step_7/
 level: 2
 prev: step_6/
 next: step_8/

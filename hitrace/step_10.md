@@ -1,15 +1,15 @@
 ---
-permalink: /hitrace/tutorial/step_10/
+permalink: /HiTRACE/tutorial/step_10/
 level: 2
 prev: step_9/
-next: https://daslab.github.io/biers/rnastructure/
+next: https://daslab.github.io/Biers/rnastructure/
 ---
 
 # Step 10: Calculate Z-score _<small>(for 2D data only)</small>_
 
 <br/>
 
-This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/rdatkit#installation). Note that we only using the _MATLAB_ components of `rdatkit`.
+This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/RDATKit#installation). Note that we only using the _MATLAB_ components of `rdatkit`.
 
 <hr/>
 

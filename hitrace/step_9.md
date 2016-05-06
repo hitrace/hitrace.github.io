@@ -1,5 +1,5 @@
 ---
-permalink: /hitrace/tutorial/step_9/
+permalink: /HiTRACE/tutorial/step_9/
 level: 2
 prev: step_8/
 next: step_10/
@@ -9,7 +9,7 @@ next: step_10/
 
 <br/>
 
-This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/rdatkit#installation). Note that we only using the _MATLAB_ components of `rdatkit`.
+This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/RDATKit#installation). Note that we only using the _MATLAB_ components of `rdatkit`.
 
 <hr/>
 

@@ -18,15 +18,15 @@ An online user-friendly GUI is available at the [**HiTRACE Web**](http://hitrace
 
 | Package | Status | Description | Language |
 | --- | --- | --- | ---: |
-| [**HiTRACE**](/hitrace/) | _public_ | The standard tool for MCM analysis of CE | `MATLAB` |
-| [**RDAT_Kit**](/rdatkit/) | _public_ | Utils for anyone working with MCM data | `Python` |
+| [**HiTRACE**](/HiTRACE/) | _public_ | The standard tool for MCM analysis of CE | `MATLAB` |
+| [**RDATKit**](/RDATKit/) | _public_ | Utils for anyone working with MCM data | `Python` |
 
 #### Click on each package for details.
 
 <hr/>
 ## License
 
-Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/hitrace/blob/master/LICENSE.md).
+Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/HiTRACE/blob/master/LICENSE.md).
 
 <hr/>
 ## Reference

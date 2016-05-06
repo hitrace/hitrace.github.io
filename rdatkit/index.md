@@ -1,5 +1,5 @@
 ---
-permalink: /rdatkit/
+permalink: /RDATKit/
 ---
 
 
@@ -17,7 +17,7 @@ permalink: /rdatkit/
 - From GitHub or [**RMDB**](https://rmdb.stanford.edu/tools/), download the zip or tar file of the repository and unpack; or 
 
 ```bash
-git clone https://github.com/hitrace/rdatkit.git
+git clone https://github.com/hitrace/RDATKit.git
 ```
 
 - In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/rdatkit/MATLAB/`.
@@ -49,23 +49,23 @@ xlwt >= 1.0.0
 <hr/>
 ## Documentation
 
-* #### *MATLAB* Tutorial is available [**here**](/hitrace/tutorial/step_9/).
+* #### *MATLAB* Tutorial is available [**here**](/HiTRACE/tutorial/step_9/).
 
 * #### *Python* Documentation is available at: [**docs/**](docs/).
 
 <hr/>
 ## License
 
-Copyright &copy; of **RDATKit** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/rdatkit/blob/master/LICENSE.md).
+Copyright &copy; of **RDATKit** _Source Code_ is described in [LICENSE.md](https://github.com/hitrace/RDATKit/blob/master/LICENSE.md).
 
 <hr/>
 ## Related Packages
 
-* ### [**HiTRACE**](/hitrace/)
+* ### [**HiTRACE**](/HiTRACE/)
 
-* ### [**Biers**](https://daslab.github.io/biers/)
+* ### [**Biers**](https://daslab.github.io/Biers/)
 
-* [**MAPSeeker**](https://daslab.github.io/mapseeker/)
+* [**MAPSeeker**](https://daslab.github.io/MAPseeker/)
 
 <hr/>
 Developed by **Das lab**, _Leland Stanford Junior University_.

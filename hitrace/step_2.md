@@ -1,6 +1,6 @@
 ---
-permalink: /hitrace/tutorial/step_2/
-levlel: 2
+permalink: /HiTRACE/tutorial/step_2/
+level: 2
 prev: step_1/
 next: step_3/
 ---
@@ -9,7 +9,7 @@ next: step_3/
 
 <br/>
 
-After [**Step #1**](../step_!/), small differences in mobilities in mutants are still apparent ("waviness"). For **2D** datasets, the shifts are actually due to differences in sequence between different lanes. We now are interested in fine-tuning this alignment. 
+After [**Step #1**](../step_1/), small differences in mobilities in mutants are still apparent ("waviness"). For **2D** datasets, the shifts are actually due to differences in sequence between different lanes. We now are interested in fine-tuning this alignment. 
 
 <hr/>
 

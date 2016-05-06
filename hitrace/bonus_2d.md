@@ -1,7 +1,7 @@
 ---
-permalink: /hitrace/tutorial/bonus_2d/
+permalink: /HiTRACE/tutorial/bonus_2d/
 level: 2
-prev: https://daslab.github.io/biers/varna/
+prev: https://daslab.github.io/Biers/varna/
 next: bonus_3d/
 ---
 
