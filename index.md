@@ -1,7 +1,7 @@
 ---
-layout: home
-description: <u>Hi</u>gh-<u>T</u>hroughput <u>R</u>obust <u>A</u>nalysis for <u>C</u>apillary <u>E</u>lectrophoresis
-author: Siqi Tian
+level: 0
+
+description: "<u>Hi</u>gh-<u>T</u>hroughput <u>R</u>obust <u>A</u>nalysis for <u>C</u>apillary <u>E</u>lectrophoresis"
 ---
 
 # HiTRACE
@@ -16,12 +16,12 @@ An online user-friendly GUI is available at the [**HiTRACE Web**](http://hitrace
 <hr/>
 ## Packages
 
-#### Official documentation and tutorial are hosted at [**RiboKit**](https://ribokit.github.io/) site.
-
 | Package | Status | Description | Language |
 | --- | --- | --- | ---: |
-| [**HiTRACE**](https://ribokit.github.io/hitrace/) | _public_ | The standard tool for MCM analysis of CE | `MATLAB` |
-| [**RDAT_Kit**](https://ribokit.github.io/rdatkit/) | _public_ | Utils for anyone working with MCM data | `Python` |
+| [**HiTRACE**](/hitrace/) | _public_ | The standard tool for MCM analysis of CE | `MATLAB` |
+| [**RDAT_Kit**](/rdatkit/) | _public_ | Utils for anyone working with MCM data | `Python` |
+
+#### Click on each package for details.
 
 <hr/>
 ## License
@@ -46,15 +46,6 @@ Copyright &copy; of **HiTRACE** _Source Code_ is described in [LICENSE.md](https
 >Yoon, S., Kim, J., Hum, J., Kim, H., Park, S., Kladwang, W., and Das, R. (**2011**)<br/>
 >[HiTRACE: High-throughput robust analysis for capillary electrophoresis](http://bioinformatics.oxfordjournals.org/content/27/13/1798)<br/>
 >*Bioinformatics* **27 (13)**: 1798 - 1805.
-
-<hr/>
-## Related Packages
-
-* ### [**Biers**](https://ribokit.github.io/biers/)
-
-* ### [**REEFFIT**](https://ribokit.github.io/reeffit/)
-
-* ### [**LIFFT**](https://ribokit.github.io/lifft/)
 
 <hr/>
 Developed by **Das lab** (_Leland Stanford Junior University_) and **Yoon lab** (_Seoul National University_) and colleagues.
