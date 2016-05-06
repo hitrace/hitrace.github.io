@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://hitrace.github.io"
 github_username:  hitrace
 
+# Default variables
 defaults:
   -
     scope:
