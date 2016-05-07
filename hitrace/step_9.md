@@ -9,7 +9,7 @@ next: step_10/
 
 <br/>
 
-This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/RDATKit#installation). Note that we only using the _MATLAB_ components of `rdatkit`.
+This step requires proper setup of the package `rdatkit`. Please follow the installation guides [there](/RDATKit/install/). Note that we only using the _MATLAB_ components of `rdatkit`.
 
 <hr/>
 
