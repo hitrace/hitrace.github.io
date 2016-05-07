@@ -57,7 +57,7 @@ Now that you have **.txt** files with reactivities and sequence positions, it’
 run pymol_daslab.py
 ```
 
-Or have it setup automatically (see [here](/pymol_daslab#installation)).
+Or have it setup automatically (see [here](https://ribokit.github.io/RiboVis#installation)).
 
 * Load _PDB_ of interest:
 
@@ -79,7 +79,7 @@ It load all **.pdb** files in directory `dir` and resets view of molecule. You c
 
 * _(Optional)_ Set Options:
 
-Then, if desired, set the background color and other visualization options (filled rings, cartoon backbone, etc.). Commands in `pymol_daslab` provide preset visualization schemes (detailed [here](/pymol_daslab/docs/)):
+Then, if desired, set the background color and other visualization options (filled rings, cartoon backbone, etc.). Commands in `RiboVis` provide preset visualization schemes (detailed [here](https://ribokit.github.io/RiboVis/docs/)):
 
 ```python
 rr()
