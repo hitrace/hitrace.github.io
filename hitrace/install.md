@@ -18,5 +18,5 @@ To install **HiTRACE**, simply:
 git clone https://github.com/hitrace/HiTRACE.git
 ```
 
-- In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/hitrace/Scripts/`.
+- In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/HiTRACE/Scripts/`.
 

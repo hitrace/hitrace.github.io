@@ -14,7 +14,7 @@ next: docs/
 git clone https://github.com/hitrace/RDATKit.git
 ```
 
-- In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/rdatkit/MATLAB/`.
+- In *MATLAB*, go to "**Set Path**". Then "**Add with Subfolders**" of the target `path/to/RDATKit/MATLAB/`.
 
 <hr/>
 ## Python
@@ -26,7 +26,7 @@ To install **RDATKit**, simply:
 - Run:
 
 ```bash
-cd path/to/rdatkit/repo
+cd path/to/RDATKit/
 python setup.py install
 ```
 
