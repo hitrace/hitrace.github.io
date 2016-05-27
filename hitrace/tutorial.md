@@ -7,11 +7,9 @@ prev: install/
 ## Example Files
 Example scripts and data are included in the **HiTRACE** [repository](https://github.com/hitrace/HiTRACE/). For a new analysis, start with these example scripts and replace relevant values with yours:
 
-* 1D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_1D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/TestData/data_pfl_1D.zip)_
+* 1D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_1D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_1D.zip)_
 
-* 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_2D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/TestData/data_pfl_2D.zip)_
-
-* Color Diagram: _[Script](https://github.com/hitrace/HiTRACE/blob/master/TestData/example_pfl_color.m), [Image](https://github.com/hitrace/HiTRACE/blob/master/TestData/pfl_secstr.tif)_
+* 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_2D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_2D.zip)_
 
 <hr/>
 ## Analysis Pipeline
@@ -63,10 +61,10 @@ Draw secondary structure using [VARNA](http://varna.lri.fr/) with nucleotides co
 <hr/>
 ## Bonus Graphic Tools
 
-* ### [Color 2D Diagram](bonus_2d/)
+* ### [Color 2D Diagram](https://ribokit.github.io/RiboPaint/tutorial/)
 Make publication-ready diagram of secondary structures with nucleotides color-coded by reactivity.
 
-* ### [Color 3D Model](bonus_3d/)
+* ### [Color 3D Model](https://ribokit.github.io/RiboVis/tutorial/)
 Make publication-ready 3D models with nucleotides color-coded by reactivity.
 
 <hr/>
