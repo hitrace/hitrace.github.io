@@ -20,6 +20,7 @@ An online user-friendly GUI is available at the [**HiTRACE Web**](http://hitrace
 | --- | --- | --- | ---: |
 | [**HiTRACE**](/HiTRACE/) | _public_ | The standard tool for MCM analysis of CE | `MATLAB` |
 | [**RDATKit**](/RDATKit/) | _public_ | Utils for anyone working with MCM data | `Python` |
+| [**RiboPaint**](https://ribokit.github.io/RiboPaint/) | _public_ | Publication-quality secondary structure diagram painter | `MATLAB` |
 
 #### Click on each package for details.
 
