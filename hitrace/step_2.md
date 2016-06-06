@@ -34,6 +34,8 @@ You'll see a figure window showing the result side by side. It is obvious that _
 
 There are other commands, e.g. `align_by_DP()` and `align_by_DP_using_ref()`, that performs alignment refinement in a different flavor. You may want to try those as well. You can also further-align on top of the result of `align_by_DP_fine()`. Make sure to backup your `d_align`. 
 
+> Input arguments for `align_by_DP()` and `align_by_DP_using_ref()` may differ from `align_by_DP_fine()`. Use `help()` to double check.
+
 To accept your further alignment, run:
 
 ```matlab
