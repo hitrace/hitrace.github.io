@@ -14,7 +14,7 @@ Example scripts and data are included in the **HiTRACE** [repository](https://gi
 <hr/>
 ## Analysis Pipeline
 
-[![HiTRACE.org Flow Chart](http://hitrace.org/img/help/flowchart.png "HiTRACE.org Flow Chart"){: .full}](http://hitrace.org/page/view/about)
+[![HiTRACE.org Flow Chart](/hitrace/res/flowchart.png "HiTRACE.org Flow Chart"){: .full}](http://hitrace.org/page/view/about)
 {: .center}
 
 The complete HiTRACE analysis pipeline is composed of the following steps.
