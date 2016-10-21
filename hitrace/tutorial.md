@@ -11,6 +11,8 @@ Example scripts and data are included in the **HiTRACE** [repository](https://gi
 
 * 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_2D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_2D.zip)_
 
+* [**NEW**{: style="color:#ff5c2b;"}] For further practice, we provide 12 more examples. They are previous 1D and 2D datasets annotated by our experts. Download [Script &amp; Data](https://rmdb.stanford.edu/site_data/HiTRACE_more_practice.zip), and follow these [instructions](practice/).
+
 <hr/>
 ## Analysis Pipeline
 
