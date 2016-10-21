@@ -22,6 +22,8 @@ plot(normalized_reactivity(:, 3:6))
     normalized_reactivity(:, 3:6), normalized_error(:, 3:6), [], seqpos_out, sequence, offset); 
 ```
 
+> This step only concerns error estimates across **replicates**. If your experiment only involves one lane for each condition, you do not need to run this command. And use `normalized_error` directly instead.
+
 [![average_data_filter_outliers Figure](/hitrace/res/pfl_1D_fig_err.png "average_data_filter_outliers Figure"){: .full}](/hitrace/res/pfl_1D_fig_err.png)
 {: .center}
 

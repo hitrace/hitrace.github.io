@@ -56,6 +56,10 @@ Lastly, we need to describe where the reverse transcription primer was bound. **
 
 > Note that `first_RT_nucleotide` has number that is based on `offset`.
 
+> The `offset` variable only matters for display. It converts the 'natural' numbering of nucleotides in the physical RNA `sequence` to the traditional numbering you are comfortable of (e.g. set first nucleotide of you ROI as 1, or other numbers if your RNA is a small part of a larger sequence).
+
+> The `20` in `first_RT_nucleotide` correspond the length of pairing region between **Tail 2** and the reverse transcription primer. If you followed the guidelines in designing your RNA construct, you do not need to change this number.
+
 <hr/>
 
 As an example of **2D** data analysis, it is similar as **1D** for this step **except for `data_types`**.

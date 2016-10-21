@@ -89,7 +89,7 @@ As mentioned before, the _auto-assign_ result need to be double checked before a
 
 * Go over the sequence from the _bottom_ upwards. Zoom in several times to space out bands for visual inspection. Adjust the contrast along the way as you move up.
 
-* There should be 1 extra band at the _bottom_. The extra band (appears <span style="color: #cd93d7;">magenta</span>) is where the full-length extended product is. (See also the **121/120** caption in the figure top.)
+* There should be **1 extra band**{:style="color:#ff5c2b;"} at the _bottom_. The extra band (appears <span style="color: #cd93d7;">magenta</span>) is where the full-length extended product is. (See also the **121/120** caption in the figure top.)
 
 > Depending on where the modification is, RT can produce a cDNA whose length corresponds to the modified sequence position. Besides these _S_ (length of `sequence`) products, there is one that corresponds to when no modification occurred, which is the full-length extended product. Under _single-hit_ kinetic conditions, the majority of RNA transcripts are not modified. Thus, this _bottom_ band is very strong.
 
