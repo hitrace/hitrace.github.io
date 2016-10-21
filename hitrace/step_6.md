@@ -94,6 +94,8 @@ All the **(-)** columns should be subtracted by _nomod (-)_ while all the **(+)*
 bkg_col  = [1, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2];
 ```
 
+> The numberings in `bkg_col` are based on column indices of `saturated_array` and `diluted_array`; not to be confused with `saturated_idx` and `diluted_idx` that are based on `area_peak`.
+
 Finally, we can kick off the quantitation with:
 
 ```matlab
@@ -106,8 +108,7 @@ Finally, we can kick off the quantitation with:
 
 > Recall the numbers of nucleotides reactive in _GAGUA_ to DMS [2], CMCT [1], and SHAPE [5] are different. This information helps normalization step to scale up the profiles properly (by averaging among the right number of reactive nucleotides within _GAGUA_).
 
-To better clarify the confusing indices and rearrangments, please read the following illustration:
-
+To better clarify the confusing indices and rearrangments, please read this [illustration](/hitrace/res/pfl_1D_rx_matrix.png).
 
 <hr/>
 
