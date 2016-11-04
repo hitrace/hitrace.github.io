@@ -8,7 +8,7 @@ next: step_1/
 
 <br/>
 
-* #### Please follow the [**installation**](/../../install/) guidelines to download HiTRACE scripts, and register to _MATLAB_ path.
+* #### Please follow the [**installation**](../../install/) guidelines to download HiTRACE scripts, and register to _MATLAB_ path.
 
 * #### For all of the commands used, use `help func_name` to retrieve help information on syntax usage.
 
