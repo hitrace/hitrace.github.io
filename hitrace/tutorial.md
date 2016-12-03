@@ -7,11 +7,13 @@ prev: install/
 ## Example Files
 Example scripts and data are included in the **HiTRACE** [repository](https://github.com/hitrace/HiTRACE/). For a new analysis, start with these example scripts and replace relevant values with yours:
 
-* 1D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_1D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_1D.zip)_
+* 1D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_1D.m), [CE Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_1D.zip), [Workspace](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_1D.mat)_
 
-* 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_2D.m), [Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_2D.zip)_
+* 2D Analysis: _[Script](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_2D.m), [CE Data](https://github.com/hitrace/HiTRACE/blob/master/Examples/data_pfl_2D.zip), [Workspace](https://github.com/hitrace/HiTRACE/blob/master/Examples/example_pfl_2D.mat)_
 
 * [**NEW**{: style="color:#ff5c2b;"}] For further practice, we provide 12 more examples. They are previous 1D and 2D datasets annotated by our experts. Download [Script &amp; Data](https://rmdb.stanford.edu/site_data/HiTRACE_more_practice.zip), and follow these [instructions](practice/).
+
+> Workspace files are provided for comparison only, when you want to double check if your results are the same (especially for [**Step #4**](step_4/)). They are not needed for trying out and starting fresh.
 
 <hr/>
 ## Analysis Pipeline
