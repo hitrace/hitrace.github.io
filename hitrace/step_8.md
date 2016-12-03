@@ -5,7 +5,7 @@ prev: step_7/
 next: step_9/
 ---
 
-# Step 8: Save your Work _<small>(optional)</small>_
+# Step 8: Save your Work
 
 <br/>
 

@@ -45,7 +45,7 @@ Perform unsaturation, attenuation correction, background subtraction, and normal
 * ### #7: [Error Estimates](step_7/) <small>*(for 1D data only)*</small>
 Evaluate data and estimate errors across replicates.
 
-* ### #8: [Save your Work](step_8/) <small>*(optional)*</small>
+* ### #8: [Save your Work](step_8/)
 Print well-annotated figures of your analysis for archiving.
 
 * ### #9: [Output RDAT File](step_9/)

@@ -19,7 +19,7 @@ sequence = strrep(sequence, 'T', 'U');
 ```
 > Note that we repalce _'T'_ to _'U'_ as RNA sequence.
 
-Next, we declare the `structure`, represented in _dot-bracket_ notation. It is recommended to use a reference/crystallographic secondary structure, or any hypothesis you are testing. Use empty `''` instead if you don't have a clue.
+Next, we declare the `structure`, represented in _dot-bracket_ notation. It is recommended to use a **reference/crystallographic secondary**{: style="color:#ff5c2b;"} structure, or any hypothesis you are testing. **Use empty `''` instead if you don't have a clue.** We do not recommend using untested predictions.
 
 ```matlab
 structure = '...((((((.....))))))....(((((((....[[[[....(((((....))))).....)))))))...........(((..]]]]...)))...((((((.....)))))).........................';

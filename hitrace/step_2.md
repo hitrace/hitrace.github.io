@@ -13,15 +13,17 @@ After [**Step #1**](../step_1/), small differences in mobilities in mutants are 
 
 <hr/>
 
-We need to describe which profiles to align to each other. **We should only let profiles that are of same nature to be aligned to each other.** For example, lanes of the same modifier (e.g. DMS), or lanes of similar chemistry (e.g. 1M7 and NMIA, both SHAPE).
+We need to describe which profiles to align to each other. **We should only let profiles that are of same nature to be aligned to each other.**{: style="color:#ff5c2b;"} For example, lanes of the same modifier (e.g. DMS), or lanes of similar chemistry (e.g. 1M7 and NMIA, both SHAPE).
 
-> ddNTPs sequencing ladders should not be aligned to each other, or to modifer profiles, because they have strong bands in totally different places. 
+> ddNTPs sequencing ladders **should not be aligned to** each other, or to modifer profiles, because they have strong bands in totally different places. 
 
 ```matlab
 align_blocks = {1:8, 9:24, 25:40, 41:56, 57:58, 59:60, 61:62, 63:64};
 d_align_before_more_alignment = d_align;
 d_align_dp_fine = align_by_DP_fine(d_align_before_more_alignment, align_blocks);
 ```
+
+> The numberings in `align_blocks` are based on column indices of `d_align`; not to be confused with `reorder` previously. Simply speaking, the `reorder` numbering of ABI sequencer files (**.ab1**) is no longer relevant after [**Step #1**](../step_1/)!
 
 The above code specified 8 groups for finer alignment in `align_blocks`. It treats _nomod_, DMS, CMCT, SHAPE, ddATP, ddTTP, ddCTP, and ddGTP separately from each other. It also copies the `d_align` into `d_align_before_more_alignment` as a back-up, in case `align_by_DP_fine()` yields unsatisfactory results.
 

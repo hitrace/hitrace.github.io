@@ -55,6 +55,8 @@ More guides on how to operate:
 
 * You may be switched to another _MATLAB_ window when you type too fast. In such a case, use ``command + ` `` to switch back (_Mac OS X_).
 
+* The MATLAB mechanism behind this interactive session may result in inaccurate zoom-in on clicks. If you get 'lost', simply click `q` to save and quit. Then rerun the command to start over on the view.
+
 <hr/>
 
 ### Get started with some help!
