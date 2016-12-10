@@ -12,7 +12,7 @@ An online user-friendly GUI is available at the [**HiTRACE Web**](http://hitrace
 <hr/>
 ## Installation
 
-**HiTRACE** requires *MATLAB* version `>= R2011a` and `<= R2014a`. To install **HiTRACE**, simply follow instructions [here](install/).
+**HiTRACE** requires *MATLAB* version `>= R2011a`. To install **HiTRACE**, simply follow instructions [here](install/).
 
 <hr/>
 ## Documentation
