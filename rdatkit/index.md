@@ -35,7 +35,7 @@ Copyright &copy; of **RDATKit** _Source Code_ is described in [LICENSE.md](https
 
 * ### [**Biers**](https://daslab.github.io/Biers/)
 
-* [**MAPSeeker**](https://daslab.github.io/MAPseeker/)
+* [**MAPSeeker**](https://ribokit.github.io/MAPseeker/)
 
 <hr/>
 Developed by **Das lab**, _Leland Stanford Junior University_.
