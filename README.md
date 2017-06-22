@@ -9,15 +9,15 @@
 ## ~~Installation~~
 
 ~~For local test server setup, you need to install `jekyll`, simply:~~
-```
-gem install <del>jekyll</del>
+```bash
+gem install jekyll
 ```
 
 * ~~For system-wide installation, you must have permissions and use with `sudo`.~~
 
 ~~To run the test/dev server, use:~~
 ```bash
-~~jekyll serve~~
+jekyll serve
 ```
 
 ## ~~Contributing~~
