@@ -3,7 +3,7 @@ title: HiTRACE
 email: ribokit.info@gmail.com
 description: ""
 baseurl: ""
-url: "http://hitrace.github.io"
+url: "https://hitrace.github.io"
 github_username:  hitrace
 
 # Default variables
@@ -12,27 +12,9 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
-      level: 1
-      title: ""
-      author: "Siqi Tian"
-      ga_tracker: UA-36037648-5
-  -
-    scope:
-      path: "hitrace"
-    values:
-      title: "HiTRACE"
-      description: "<u>Hi</u>gh-<u>T</u>hroughput <u>R</u>obust <u>A</u>nalysis for <u>C</u>apillary <u>E</u>lectrophoresis"
-      repo: "hitrace/HiTRACE"
-      root: "/HiTRACE/"
-  -
-    scope:
-      path: "rdatkit"
-    values:
-      title: "RDATKit"
-      description: "<u>R</u>NA <u>Dat</u>aset Tool<u>Kit</u>"
-      repo: "hitrace/RDATKit"
-      root: "/RDATKit/"
+      layout: "301"
+      sitemap: false
+      title: "Redirect"
 
 
 # Build settings
